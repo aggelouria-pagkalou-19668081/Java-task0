@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=problemSolver
+comment0.text=\r\n\ kanei\ mathimatikes\ prakseis\r\n\ \r\n\ @aegopounaxesw\ (\u03A4\u03BF\ \u03CC\u03BD\u03BF\u03BC\u03AC\ \u03C3\u03B1\u03C2)\ \r\n\ @version\ (\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2\ \u03AD\u03BA\u03B4\u03BF\u03C3\u03B7\u03C2\ \u03AE\ \u03B7\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1\ \u03B5\u03B4\u03CE)\r\n
+comment1.params=
+comment1.target=problemSolver()
+comment1.text=\r\n\ \u039A\u03B1\u03C4\u03B1\u03C3\u03B5\u03C5\u03B1\u03C3\u03C4\u03AE\u03C2\ \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03B9\u03BC\u03AD\u03BD\u03C9\u03BD\ \u03C4\u03B7\u03C2\ \u03BA\u03BB\u03AC\u03C3\u03B7\u03C2\ problemSolver\r\n
+comment2.params=num1\ num2\ num3
+comment2.target=void\ averageThreeIntegers(int,\ int,\ int)
+comment2.text=\r\n\ auth\ h\ meth\ kanei\ dayto\r\n\ \r\n\ @param\ \ y\ \ num1\ num2\ num3\r\n\ @return\ \ \ \ \ \ \ tpt\ gt\ einai\ void\ kai\ apla\ typonei\ apotelesma\r\n
+comment3.params=a\ b
+comment3.target=void\ firstDegreeEquation(double,\ double)
+comment3.text=\r\n\ auth\ h\ meth\ kanei\ eksisosh\r\n\ meta\ to\ \r\n\ @param\ \r\n\ @return\ \ \ \ \ \ \ tpt\ gt\ einai\ void\ kai\ apla\ typonei\ apotelesma\ (kai\ auti)\r\n
+comment4.params=arrayOfReal
+comment4.target=void\ productArray(double[])
+comment4.text=\r\n\ \r\n\ auth\ h\ methodos\ upol\ to\ ginomeno\ toy\ pinaka\r\n\ meta\ to\ \r\n\ @param\ \r\n\ @return\ \ \ \ \ \ \ tpt\ gt\ einai\ void\ kai\ apla\ typoneiginomeno(kai\ auti)\r\n
+numComments=5
